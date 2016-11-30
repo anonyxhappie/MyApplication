@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Learn Java</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="learn_java">LEARN\nJAVA</string>
+</resources>
